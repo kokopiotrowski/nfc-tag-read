@@ -19,6 +19,8 @@ import SupportIcon from './icons/IconSupport.vue'
     provides you with all information you need to get started.
   </WelcomeItem>
 
+  <v-card>heh </v-card>
+
   <WelcomeItem>
     <template #icon>
       <ToolingIcon />
